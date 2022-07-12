@@ -1,0 +1,121 @@
+#main{
+	background: url(https://i.pinimg.com/originals/44/38/db/4438dbad42d5a55305c85c9801bbd8c0.png);
+
+}
+
+h1{
+	text-align: center;
+	font-size: 30;
+	padding-top: 30;
+}
+
+h2{
+	text-align: center;
+	font-size: 15;
+}
+label {
+  display: flex;
+  align-items: center;
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+}
+
+#survey-form{
+	background: purple;
+	width: 50%;
+	display: block;
+	margin: auto;
+}
+#name3{
+	color: white;
+	margin-left: 35;
+	line-height: 2;
+
+}
+
+#name1{
+	width: 90%;
+	display: block;
+	margin: auto;
+	border-radius: 5px;
+	height: 40;
+
+}
+
+p{
+	color: white;
+	font-size: 20;
+	margin-left: 30;
+}
+
+#dropdown{
+	display: block;
+	margin: auto;
+  width: 90%;
+  height: 40;
+  padding: 5px;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+#def {
+	font-size: 20;
+	display: inline-block;
+	margin-left: 30;
+}
+
+.deff{
+	color: white;
+}
+
+
+
+#select{
+	display: block;
+	margin: auto;
+	height: 40;
+	width: 90%;
+	border-radius: 5px;
+}
+
+#dd{
+	color: white;
+}
+
+#cd{
+	color: white;
+}
+
+#cc{
+	margin-left: 30;
+}
+
+
+#comments{
+	width: 90%;
+	margin-left: 30;
+	height: 150;
+	border-radius: 5px;
+}
+
+#submit{
+	margin-top: 10;
+	width: 90%;
+	height: 40;
+	margin-left: 30;
+	background: blue;
+	color: white;
+	border-radius: 5px;
+	display: inline-block;
+	font-size: 16px;
+
+}
+
+#submit:hover {
+	background-color: lightblue;
+	color: black;
+}
